@@ -2,22 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/Deconnexion.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/Edit.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/service/Shotel.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/gestion/Admin.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/Importation.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/AcceuilAdmin.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/web/page/admin/table.jsp</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/filter/SessionFilter.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/EditValidation.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/RechercheAV.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/servelet/Acceuil.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/web/WEB-INF/web.xml</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/gestion/Visiteur.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/gestion/Hotel.java</file>
-            <file>file:/D:/ProgSystem/S4/webdynqmique/projetWD/src/java/gestion/Reservation.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
